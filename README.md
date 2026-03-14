@@ -1,6 +1,6 @@
 # Pedro Ivan Espinoza Buitron
 
-![Family](./images/family.png "Family")
+![pedro](./images/pedro.jpeg "pedro")
 
 ![Prince of all Sayans](./images/vegeta.jpg "Vegeta")
 
