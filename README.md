@@ -17,6 +17,4 @@ My first computing device was a leapfrog laptop. I asked my parents for a laptop
 
 ## Something Interesting About You
 
-It doesn't look like it now, but I played American Football in high school and junior college.  I managed to register one tackle to my credit in college.
-
-A little know fact, being in my mid 40s I was part of the early internet and was partially responsible for creating "Rick-rolling".  If you don't believe me, check out these links to prove this fact: [links:](https://www.youtube.com/watch?v=dQw4w9WgXcQ "definitely not rick-rolling you...")
+I paint in my free time, I haven't done any painting yet this year, but I hope to pivot away from work and become known for my art instead. I like to say I'm an artist that just so happens to also be a cybersecurity analyst.
