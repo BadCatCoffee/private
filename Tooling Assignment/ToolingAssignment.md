@@ -1,6 +1,0 @@
-# Pedro Ivan Espinoza Buitron Tooling Assignment
-
-![sc1](./images/sc1.png "sc1")
-
-![baki](./images/baki.jpg "baki")
-
